@@ -1,0 +1,9 @@
+[submodule "data/v-hacd-data"]
+	path = data/v-hacd-data
+	url = https://github.com/kmammou/v-hacd-data
+[submodule "2D/PythonCDT"]
+	path = 2D/PythonCDT
+	url = https://github.com/artem-ogre/PythonCDT
+[submodule "lib/3rd/CDT"]
+	path = lib/3rd/CDT
+	url = https://github.com/artem-ogre/CDT
